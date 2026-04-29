@@ -81,7 +81,7 @@ My objective is to contribute to the transformation of Industry 4.0 through effi
 <h2>📞 Contact</h2>
 <p>Email: your.email@example.com</p>
 <p>LinkedIn: linkedin.com/in/Oussama-abid</p>
-<p>GitHub: (add your GitHub link)</p>
+<p>GitHub: </p>
 
 <hr />
 
