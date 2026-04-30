@@ -11,7 +11,7 @@ Currently seeking an apprenticeship opportunity starting in 2026 in automation, 
 <h2>💼 Professional Experience</h2>
 
 <h3>🔹 Electronics / Automation Intern – EURL Saterex IRIS, Sétif, Algeria</h3>
-<p><em>09/2025 – Present</em></p>
+<p><em>01/03/2025 – 15/03/2025</em></p>
 <ul>
   <li>Studied the design and implementation of a television production line (diagnostics, as-built schematics).</li>
   <li>Participated in industrial maintenance and troubleshooting of automated systems.</li>
@@ -19,7 +19,7 @@ Currently seeking an apprenticeship opportunity starting in 2026 in automation, 
 </ul>
 
 <h3>🔹 Automation Intern – Brandt Samha Home Appliance, Sétif, Algeria</h3>
-<p><em>09/2023 – 06/2025</em></p>
+<p><em>01/03/2024 – 15/03/2024</em></p>
 <ul>
   <li>Designed automated installations for production lines.</li>
   <li>Prepared technical specifications, P&amp;ID diagrams, and I/O lists.</li>
